@@ -1,6 +1,6 @@
 # 和訳原稿の進捗台帳
 
-2026年11月17日。第1〜33章のうち29章に和訳本文を確認した。そのうち第21・23章は途中まで。第27・28・32・33章は和訳本文が未確認。着手前の大きな訳抜けは原著の約40ページ分。第21章の残りを草稿化したため、今後の新規翻訳は約35ページ分（第23章前半と第27・28・32・33章）。第21章は査読待ち。
+2026年11月17日。第1〜33章のうち29章に和訳本文を確認した。そのうち第21・23章は途中まで。第27・28・32・33章は和訳本文が未確認。着手前の大きな訳抜けは原著の約40ページ分。第21章の残りを草稿化したため、第23章の前半も草稿化した。今後の新規翻訳は約28ページ分（第27・28・32・33章）。第21・23章は校正待ち。
 
 [原著と章別目次](https://doi.org/10.1007/978-3-031-05182-1) · [原著のライセンス CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
@@ -25,7 +25,7 @@
 ## 残作業
 
 - [第21章 §3以降を翻訳する #1](https://github.com/furuhashilab/furuhashilab_Open-Mapping-towards-Sustainable-Development-Goals_TRANSLATIONS/issues/1)（原著 pp.246–249） — [和訳草稿](translations/chapter-21-sections-3-3.3.md)、校正待ち
-- [第23章 冒頭から §3.3.3 までを翻訳する #2](https://github.com/furuhashilab/furuhashilab_Open-Mapping-towards-Sustainable-Development-Goals_TRANSLATIONS/issues/2)（原著 pp.261–267付近）
+- [第23章 冒頭から §3.3.3 までを翻訳する #2](https://github.com/furuhashilab/furuhashilab_Open-Mapping-towards-Sustainable-Development-Goals_TRANSLATIONS/issues/2)（原著 pp.261–267付近） — [和訳草稿のコメント](https://github.com/furuhashilab/furuhashilab_Open-Mapping-towards-Sustainable-Development-Goals_TRANSLATIONS/issues/2#issuecomment-6935646008)、校正待ち
 - [第27章を翻訳する #3](https://github.com/furuhashilab/furuhashilab_Open-Mapping-towards-Sustainable-Development-Goals_TRANSLATIONS/issues/3)（原著 pp.305–313）
 - [第28章を翻訳する #6](https://github.com/furuhashilab/furuhashilab_Open-Mapping-towards-Sustainable-Development-Goals_TRANSLATIONS/issues/6)（原著 pp.317–324）
 - [第32章を翻訳する #5](https://github.com/furuhashilab/furuhashilab_Open-Mapping-towards-Sustainable-Development-Goals_TRANSLATIONS/issues/5)（原著 pp.359–363）
